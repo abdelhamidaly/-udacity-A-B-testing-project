@@ -3,4 +3,4 @@
 A/B tests are very commonly performed by data analysts and data scientists
 For this project, you will be working to understand the results of an A/B test run by an e-commerce website. The company has developed a new web page in order to try and increase the number of users who "convert," meaning the number of users who decide to pay for the company's product. Your goal is to work through this notebook to help the company understand if they should implement this new page, keep the old page, or perhaps run the experiment longer to make their decision.
 
-#we will try to bulid A/B Test , Z-test and Regression models
+we will try to bulid A/B Test , Z-test and Logestic Regression models to see if the difference between old page and new one is statistically significant
